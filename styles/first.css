@@ -140,30 +140,232 @@ margin:45px 190px 150px 190px ;
     font-size: 16px;
     font-weight: 700;
 }
+/* Main styles section */
+.first-body-title{
+    margin-top: 24px;
+}
+#body-section{
+    
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.first-body{
+    border: 2px solid green;
+    margin: 100px 100px  ;
+    display: flex;
+}
+.photo-title{
+    text-align: center;
+    gap: 24px;
+}
+.header-second{
+    color: #131318;
+text-align: center;
+font-family: Mulish;
+font-size: 40px;
+font-weight: 800;
+}
 
+.header-second-title{
+    color: rgba(19, 19, 24, 0.70);
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.maldi{
+    background-image: url('../Images/Rectangle\ 5.png');
+    background-repeat: no-repeat;
+    width: 573px;
+height: 300px;
+flex-shrink: 0;
+
+}
+
+.maldi-title{
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+padding-top: 110px;
+font-weight: 800;
+
+
+}
+.indon{
+    background-image: url('../Images/Rectangle\ 8.png');
+    background-repeat: no-repeat;
+    width: 573px;
+height: 300px;
+flex-shrink: 0;
+}
+.indon-title{
+    
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+padding-top: 110px;
+font-weight: 800;
+}
+
+.gallery-item{
+    display: flex;
+    gap: 24px;
+    width: 1100px;
+    margin-left: 100px;
+}
+.srilan{
+    background-image: url('../Images/Rectangle\ 6.png');
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 300px;
+    flex-shrink: 0;
+}
+.srilan-title{
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+padding-top: 110px;
+font-weight: 800;
+}
+.north{
+    background-image: url('../Images/Rectangle\ 7.png');
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 300px;
+    flex-shrink: 0;
+}
+.north-title{
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+padding-top: 110px;
+font-weight: 800;
+}
+.kash{
+    background-image: url('../Images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 274px;
+height: 286px;
+flex-shrink: 0;
+}
+.kash-title{
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+padding-top: 110px;
+font-weight: 800;
+}
+.second-gallery{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    width: 825px;
+    padding-right: 350px;
+    margin-left: 100px;
+}
+.bang{
+    background-image: url('../Images/Rectangle\ 11.png');
+    background-repeat: no-repeat;
+    width:500px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 16px;
+}
+.bang-title{
+    width: 450px;
+    border-radius: 16px;
+    padding-top: 110px;
+height: 300px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-weight: 800;
+}
+.bandar{
+    background-image: url('../Images/Rectangle\ 10.png');
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 300px;
+    flex-shrink: 0;
+    
+}
+.bandar-title{
+    width: 100px;
+    height: 300px;
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-weight: 800;
+    padding-left: 250px;
+    margin-top: 120px;
+
+}
+.third-gallery{
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    margin: 10px 125px 0px 100px;
+    gap: 5px;
+    border: 2px solid green;
+}
+
+.choose-title{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+.choose-description{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+.choose-item{
+    margin-top: 100px;
+    gap: 24px;
+}
 /* footer styles section */
 .icon-title{
     display: flex;
     width: 300px;
     margin: auto;
     margin-top: 100px;
-    border: 2px solid green;
+    
 }
+
 .icon-description{
     width: 40px;
-height: 46.673px;
-flex-shrink: 0;
-padding-top: 15px;
+    height: 46.673px;
+    flex-shrink: 0;
+    padding-top: 15px;
 }
 .last-icon-description{
-padding-left: 15px;
+    padding-left: 15px;
 }
 .last-unity-title{
     color:  #131318;
-font-family: Mulish;
-font-size: 30px;
-font-weight: 800;
-}
+    font-family: Mulish;
+    font-size: 30px;
+    font-weight: 800;
+    }
 .last-travel-title{
     color: #FF5400;
 font-family: Mulish;
@@ -183,5 +385,8 @@ font-weight: 800;
     margin: auto;
     width: 174.322px;
 height: 24px;
-
+}
+#social-icon{
+justify-content: space-evenly;
+padding-left: 10px;
 }
