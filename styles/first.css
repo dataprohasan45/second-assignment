@@ -6,6 +6,15 @@
  
 /* nav styles section */
 
+
+
+.top-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
 nav {
     display: flex;
     justify-content: space-between;
